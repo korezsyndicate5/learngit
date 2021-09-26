@@ -1,1 +1,2 @@
 -latihan git membuat kommit pertama
+-mencoba untuk checkout ke versi sebelum nya
